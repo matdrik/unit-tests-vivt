@@ -1,0 +1,26 @@
+{
+  "name": "unit-tests-vivt",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matdrik/unit-tests-vivt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matdrik/unit-tests-vivt/issues"
+  },
+  "homepage": "https://github.com/matdrik/unit-tests-vivt#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.3.2",
+    "typescript": "^5.8.3",
+    "ts-node": "^10.9.2"
+  }
+}
